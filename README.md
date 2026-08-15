@@ -6,6 +6,7 @@ An analysis of Adidas US sales from 2020-2021
 ### Exploratory Data Analysis (EDA)
 
 ![Dashboard Image](Dashboard.png)
+![Dashboard 2 Image](Dashboard_2.png)
 - Total Sales: $899.9M
 - Total Unit Sold: 2.5M
 - Total Profit Madr: $332.1M
